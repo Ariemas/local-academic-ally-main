@@ -1,0 +1,20 @@
+.title{
+  border-style: solid;
+  border: none;
+  font-size: 50px;
+  width: 100%;
+  text-align: center;
+  background-color: white;
+  font-family: Verdana;
+  margin-bottom: 2.5vh;
+  margin-top: 0;
+}
+
+.d1{
+  text-align: right;
+}
+
+.buttonContainer{
+  text-align: center;
+  position: relative;
+}
